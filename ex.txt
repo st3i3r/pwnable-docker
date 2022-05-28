@@ -1,0 +1,30 @@
+1. Read a file
+2. Read a file with special characters in name (spaces, dash, ...)
+3. Get size of file with ls command
+4. Read a hidden file
+3. Cd to a directory and read a file
+4. Find command:
+	- owned by a user
+	- owned by a group
+	- has size ...
+	- name
+	- extension
+
+Pipe/Redirection
+5. flag begins with ...
+6. flag next to or before a specific word
+sort 
+7. flag is the uniq word
+8. flag is a base64-encoded string
+9. flag in a zipped file
+
+Read env var
+
+
+10. Use ssh key pair to login
+
+Given a file, convert permission -> number format (rwxr__w__ -> 742)
+11. Create a file having 100 permission -> use chmod to add perm and read the flag
+
+12. ifconfig, ip addr show information (mac address, interface, mtu)
+13. whois, dig
